@@ -24,7 +24,7 @@ namespace SauceDemo.Automation.Utilities
         [TestInitialize]
         public void Setup()
         {
-            Logger.Info("--- Test initialization started. ---");
+            Logger.Info("Test initialization started.");
 
             BrowserType browser = GetBrowserFromTestContext();
             Logger.Info($"Selected browser: {browser}");
@@ -49,7 +49,7 @@ namespace SauceDemo.Automation.Utilities
         public void Teardown()
         {
             var status = TestContext.CurrentTestOutcome;
-            Logger.Info($"--- Test finished with status: {status} ---");
+            Logger.Info($"Test finished with status: {status}");
 
             if (_driver.IsValueCreated)
             {
