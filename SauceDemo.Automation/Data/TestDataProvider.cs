@@ -1,9 +1,4 @@
 ﻿using SauceDemo.Automation.Utilities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SauceDemo.Automation.Data
 {
@@ -27,13 +22,6 @@ namespace SauceDemo.Automation.Data
                 yield return new object[] { BrowserType.Edge, validUsername2, validPassword };
                 yield return new object[] { BrowserType.Edge, validUsername3, validPassword };
             }
-        }
-
-        public static IEnumerable<object[]> GetValidCredentials()
-        {
-            yield return new object[] { validUsername, validPassword };
-            yield return new object[] { validUsername2, validPassword };
-            yield return new object[] { validUsername3, validPassword };
         }
     }
 }
