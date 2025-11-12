@@ -7,19 +7,24 @@
       "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\utilities\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\utilities\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\.nuget\\packages\\nlog.config\\4.7.15\\contentfiles\\any\\any\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\utilities\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\utilities\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\data\\testdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\data\\testdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\utilities\\webdrivermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\pages\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\pages\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\data\\testdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|solutionrelative:saucedemo.automation\\data\\testdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{244E7CF5-58B7-4826-8955-61298C6A2AF8}|SauceDemo.Automation\\SauceDemo.Automation.csproj|c:\\users\\dell\\source\\repos\\saucedemo.automation\\saucedemo.automation\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,25 +45,40 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 348,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 271,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\.gitignore",
+              "RelativeDocumentMoniker": "SauceDemo.Automation\\.gitignore",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\.gitignore",
+              "RelativeToolTip": "SauceDemo.Automation\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-11-09T16:49:25.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\README.md",
               "RelativeDocumentMoniker": "SauceDemo.Automation\\README.md",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\README.md",
               "RelativeToolTip": "SauceDemo.Automation\\README.md",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-11-08T15:36:16.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T15:36:16.787Z"
             },
             {
               "$type": "Document",
@@ -72,27 +88,26 @@
               "RelativeDocumentMoniker": "SauceDemo.Automation\\Tests\\LoginTests.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\Tests\\LoginTests.cs",
               "RelativeToolTip": "SauceDemo.Automation\\Tests\\LoginTests.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAhwDMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAgwFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T13:02:54.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "TestDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\Data\\TestDataProvider.cs",
               "RelativeDocumentMoniker": "SauceDemo.Automation\\Data\\TestDataProvider.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\Data\\TestDataProvider.cs",
               "RelativeToolTip": "SauceDemo.Automation\\Data\\TestDataProvider.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T13:55:32.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T13:55:32.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductsPage.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\Pages\\ProductsPage.cs",
               "RelativeDocumentMoniker": "SauceDemo.Automation\\Pages\\ProductsPage.cs",
@@ -100,8 +115,7 @@
               "RelativeToolTip": "SauceDemo.Automation\\Pages\\ProductsPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:45:53.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T12:45:53.848Z"
             },
             {
               "$type": "Document",
@@ -111,27 +125,25 @@
               "RelativeDocumentMoniker": "SauceDemo.Automation\\Pages\\LoginPage.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\Pages\\LoginPage.cs",
               "RelativeToolTip": "SauceDemo.Automation\\Pages\\LoginPage.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwB4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwB4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T21:13:09.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T21:13:09.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TestBase.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\Utilities\\TestBase.cs",
               "RelativeDocumentMoniker": "SauceDemo.Automation\\Utilities\\TestBase.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\Utilities\\TestBase.cs",
               "RelativeToolTip": "SauceDemo.Automation\\Utilities\\TestBase.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAE8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T18:23:46.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T18:23:46.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WebDriverManager.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\SauceDemo.Automation\\SauceDemo.Automation\\Utilities\\WebDriverManager.cs",
               "RelativeDocumentMoniker": "SauceDemo.Automation\\Utilities\\WebDriverManager.cs",
@@ -139,25 +151,7 @@
               "RelativeToolTip": "SauceDemo.Automation\\Utilities\\WebDriverManager.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwB8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T18:23:22.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NLog.config",
-              "DocumentMoniker": "C:\\Users\\dell\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
-              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
-              "ToolTip": "C:\\Users\\dell\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-11-08T14:47:23.355Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-11-05T18:23:22.112Z"
             },
             {
               "$type": "Document",
@@ -173,12 +167,16 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         },
         {
-          "DockedHeight": 31,
+          "DockedHeight": 108,
           "SelectedChildIndex": -1,
           "Children": [
             {
