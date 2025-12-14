@@ -1,9 +1,4 @@
 ﻿using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SauceDemo.Automation.Pages
 {
@@ -26,6 +21,12 @@ namespace SauceDemo.Automation.Pages
             _driver.FindElement(PasswordInput).SendKeys(password);
         }
 
+        public void EnterUsername(string username)
+        {
+            _driver.FindElement(UsernameInput).Clear();
+            _driver.FindElement(UsernameInput).SendKeys(username);
+        }
+
         public void ClearCredentials()
         {
             _driver.FindElement(UsernameInput).Clear();
@@ -45,6 +46,20 @@ namespace SauceDemo.Automation.Pages
         public string GetErrorMessage()
         {
             return _driver.FindElement(ErrorMessage).Text;
+        }
+
+      
+
+        public bool IsLoginButtonDisplayed()
+        {
+            try
+            {
+              return _driver.FindElement(LoginButton).Displayed;
+            }
+            catch
+            {
+                return false;
+            }
         }
     }
 }

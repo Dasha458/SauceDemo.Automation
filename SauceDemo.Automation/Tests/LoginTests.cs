@@ -12,24 +12,15 @@ namespace SauceDemo.Automation.Tests
         [DataRow(BrowserType.Edge)]
         public void UC1_login_EmptyUsername_ShowsRequiredMessage(BrowserType browser)
         {
-            Logger.Info($"Starting UC1_login_EmptyUsername_ShowsRequiredMessage");
-
-            if (Driver == null)
-                throw new InvalidOperationException("Driver is not initialized.");
+            InitializeDriver(browser);
+            Logger.Info($"Starting UC1 with {browser}");
 
             var loginPage = new LoginPage(Driver);
 
-            loginPage.EnterCredentials("testUser", "testPassword");
-            Logger.Debug("Entered credentials.");
-            loginPage.ClearCredentials();
-            Logger.Debug("Cleared credentials.");
             loginPage.ClickLoginButton();
-            Logger.Debug("Clicked login button.");
 
             string errorMessage = loginPage.GetErrorMessage();
-            errorMessage.Should().Be("Epic sadface: Username and password do not match any user in this service");
-
-            Logger.Info("Verified required username error message.");
+            errorMessage.Should().Be("Epic sadface: Username is required");
         }
 
         [TestMethod]
@@ -37,49 +28,34 @@ namespace SauceDemo.Automation.Tests
         [DataRow(BrowserType.Edge)]
         public void UC2_login_EmptyPassword_ShowsRequiredMessage(BrowserType browser)
         {
-            Logger.Info($"Starting UC2_login_EmptyPassword_ShowsRequiredMessage");
-
-            if (Driver == null)
-                throw new InvalidOperationException("Driver is not initialized.");
+            InitializeDriver(browser);
+            Logger.Info($"Starting UC2 with {browser}");
 
             var loginPage = new LoginPage(Driver);
 
-            loginPage.EnterCredentials("testUser", "testPassword");
-            Logger.Debug("Entered credentials.");
-            loginPage.ClearPassword();
-            Logger.Debug("Cleared password.");
+            loginPage.EnterUsername("standard_user");
             loginPage.ClickLoginButton();
-            Logger.Debug("Clicked login button.");
 
             string errorMessage = loginPage.GetErrorMessage();
-            errorMessage.Should().Be("Epic sadface: Username and password do not match any user in this service");
-
-            Logger.Info("Verified required password error message.");
+            errorMessage.Should().Be("Epic sadface: Password is required");
         }
 
         [DataTestMethod]
         [DynamicData(nameof(TestDataProvider.ValidLoginCredentials), typeof(TestDataProvider), DynamicDataSourceType.Property)]
-        public void UC3_Login_WithValidCredentials_IsSuccessful(BrowserType broswer, string username, string password)
+        public void UC3_Login_WithValidCredentials_IsSuccessful(BrowserType browser, string username, string password)
         {
-            Logger.Info($"Starting UC2_Login_WithValidCredentials_IsSuccessful");
-
-            if (Driver == null)
-                throw new InvalidOperationException("Driver is not initialized.");
+            InitializeDriver(browser);
+            Logger.Info($"Starting UC3 with {browser}");
 
             var loginPage = new LoginPage(Driver);
 
             loginPage.EnterCredentials(username, password);
-            Logger.Debug("Entered valid credentials.");
-
             loginPage.ClickLoginButton();
-            Logger.Debug("Clicked login button.");
 
             var productsPage = new ProductsPage(Driver);
             string actualTitle = productsPage.GetPageTitle();
 
-            actualTitle.Should().Be("Products", "the user should be redirected to the Products page after successful login");
-
-            Logger.Info("Login successful, dashboard verified.");
+            actualTitle.Should().Be("Products", "successful login should redirect to products page");
         }
     }
 }
